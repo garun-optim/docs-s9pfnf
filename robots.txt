@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-qheewy.salamduit.online/sitemap.xml
